@@ -14,6 +14,12 @@ Durant cette formation j'ai pu aborder plusieurs langages et frameworks:
              <img  width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> 
             <img  width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
             <img  width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+            
+ 
+J'ai pu également réalisé un projet fil rouge en groupe dans lequel j'ai principalement fais du Front: 
+
+<a href="https://github.com/tintincita/FilRougeM2i-Front"  target="_blank" > Lien vers le repo front </a> &nbsp; &nbsp; <a href="https://github.com/tintincita/FilRougeM2i"  target="_blank" > Lien vers le repo back </a> &nbsp; &nbsp; <img  width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />     <img  width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /> <img  width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> <img  width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  
+          
 
           
           
